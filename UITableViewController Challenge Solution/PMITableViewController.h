@@ -1,5 +1,5 @@
 //
-//  OWViewController.h
+//  PMITableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Donald Desmond on 2014-07-15.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface OWViewController : UIViewController
+@interface PMITableViewController : UITableViewController
 
 @end
